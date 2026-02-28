@@ -1,2 +1,2 @@
 Can be used as is on m5stick-c
-no power management use only basic working.
+no power management, fix battery used to test, not button monitoring, use only basic minimun input output to get poc working after python translation.
